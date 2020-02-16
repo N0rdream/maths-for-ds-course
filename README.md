@@ -1,4 +1,4 @@
 Mathematics for data science
 -------------------------------
-Vladimir Sapachev
+Vladimir Sapachev  
 email: nordream@gmail.com
